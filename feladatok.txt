@@ -1,0 +1,5 @@
+1. Hozzon létre egye lokális git repo-t és githubon is egy újat.
+2. Kösse össze a kettő repo-t.
+3. Készítsen egy szoveg.txt filet írja bele a nevét és osztályát, majd töltse fel a változtatásokat github-ra. Master branchet használva.
+
+
